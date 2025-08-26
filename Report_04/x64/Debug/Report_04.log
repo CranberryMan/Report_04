@@ -1,0 +1,11 @@
+﻿  AlchemyWorkshop.cpp
+C:\git\Report_04\Report_04\RecipeManager.h(5,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\git\Report_04\Report_04\AlchemyWorkshop.cpp(18,22): warning C4566: 유니버설 문자 이름 '\u2697'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\git\Report_04\Report_04\AlchemyWorkshop.cpp(18,22): warning C4566: 유니버설 문자 이름 '\uFE0F'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+  RecipeManager.cpp
+C:\git\Report_04\Report_04\RecipeManager.h(5,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  StockManager.cpp
+  main.cpp
+C:\git\Report_04\Report_04\RecipeManager.h(5,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  코드를 생성하고 있습니다...
+  Report_04.vcxproj -> C:\git\Report_04\Report_04\x64\Debug\Report_04.exe
